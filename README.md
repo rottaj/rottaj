@@ -26,7 +26,7 @@ I work with :computer: <br>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <a/>
   &emsp;
-  <br>
+  <br><br>
   <!-- Library / Frameworks -->
   <a href="#">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -52,7 +52,7 @@ I work with :computer: <br>
   </a>
   &emsp;
   <!--Other-->
-  <br>
+  <br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
