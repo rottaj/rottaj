@@ -1,8 +1,8 @@
-Hello there! :smiley:
+<h2>Hello there! :smiley: </h2>
 <br>
-I'm Jack! :shit:
+<h3>I'm Jack! :shit: </h3>
 <br><br>
-I work with :computer: <br>
+<h4>I work with :computer:</h4> <br>
 
 <div align='left' style="display: flex">
   <!-- Languages -->
