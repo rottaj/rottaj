@@ -2,7 +2,7 @@
 <br>
 <h3>I'm Jack! :shit: </h3>
 <br>
-<h4>I work with :computer:</h4>
+<h3>I work with :computer:</h3>
 
 <div align='left' style="display: flex">
   <!-- Languages -->
