@@ -1,7 +1,8 @@
 Hello there! :smiley:
+<br>
 I'm Jack!
 
-<div align='left'>
+<div align='left' style="display: flex">
   Javascript
   &emsp;
   Python
@@ -11,4 +12,5 @@ I'm Jack!
   Golang
 </div>
 <hr>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj.rottaj)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj)
