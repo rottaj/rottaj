@@ -2,7 +2,9 @@
 <br>
 <h3>I'm Jack! </h3>
 <br>
-<p>I'm a Software Engineer currently living in New York City. I build things I believe others will enjoy... and maybe laugh at. :smiley:
+<p>I'm a Software Engineer currently living in New York City.
+<br>
+I build things I believe others will enjoy... and maybe laugh at. :smiley:
 <br>
 Currently exploring Ethereum and other blockchain technologies. (not Cardano)
 </p>
