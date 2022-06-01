@@ -77,7 +77,6 @@ I build things I believe others will enjoy... and maybe laugh at. :smiley:
 
 
 <hr>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj.visitor-badge) 
+[visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj)
 <hr>
-<h6> :arrow_up: Do you believe this? :see_no_evil: :arrow_up:</h6>
 
