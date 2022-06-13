@@ -1,4 +1,5 @@
 <h2>Hello there! :smiley: </h2>
+![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 <br>
 <h3>I'm Jack! </h3>
 <br>
