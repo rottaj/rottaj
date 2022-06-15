@@ -3,11 +3,9 @@
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
 <br>
-<h3>I'm Jack! </h3>
+<h4>I'm Jack! </h4>
 <br>
-<p>I'm a Software Engineer currently living in New York City.
-<br>
-I build things I believe others will enjoy... and maybe laugh at. :smiley:
+<h4>I build things I believe others will enjoy... and maybe laugh at. :smiley:</h4>
 </p>
 <h3>I work with :computer:</h3>
 
