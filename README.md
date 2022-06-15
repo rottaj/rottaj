@@ -5,7 +5,7 @@
 <br>
 <h2>I'm Jack! </h2>
 <br>
-<h3>I build things I believe others will enjoy... and maybe laugh at. :smiley:</h3>
+<h3>I build to learn. Sometimes for others to enjoy.. :smiley:</h3>
 </p>
 <h3>I work with :computer:</h3>
 
