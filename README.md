@@ -6,8 +6,9 @@
 <h2>I'm Jack! </h2>
 <br>
 <h3>I build to learn... and sometimes for others to enjoy. :smiley:</h3>
+<h3> I live in New York City. :cityscape: </h3>
 </p>
-<h3>I work with :computer:</h3>
+<h3>I work with: :computer:</h3>
 
 <div align='left' style="display: flex">
   <!-- Languages -->
