@@ -3,9 +3,9 @@
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
 <br>
-<h4>I'm Jack! </h4>
+<h2>I'm Jack! </h2>
 <br>
-<h4>I build things I believe others will enjoy... and maybe laugh at. :smiley:</h4>
+<h3>I build things I believe others will enjoy... and maybe laugh at. :smiley:</h3>
 </p>
 <h3>I work with :computer:</h3>
 
