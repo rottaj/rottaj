@@ -5,7 +5,6 @@
 <br>
 <h2>I'm Jack! </h2>
 <br>
-<h3>I post things I'm learning... and sometimes for others to enjoy. :smiley:</h3>
 <h3> I live in New York City. :cityscape: </h3>
 </p>
 <h3>I work with: :computer:</h3>
