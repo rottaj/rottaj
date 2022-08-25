@@ -5,7 +5,7 @@
 <br>
 <h2>I'm Jack! </h2>
 <br>
-<h3> I live in New York City. :cityscape: </h3>
+<h3> I live in New York City. :cityscape: (and the cloud :cloud:)</h3>
 </p>
 <h3>I work with: :computer:</h3>
 
