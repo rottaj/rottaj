@@ -11,26 +11,21 @@
 
 <div align='left' style="display: flex">
   <!-- Languages -->
- 
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   </a>
-  
   &emsp;
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   </a>
- 
     &emsp;
   <a href="https://golang.org">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <a/>
-  
   &emsp;
   <a href="https://docs.soliditylang.org/">
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-  </a>
-
+   </a>
   &emsp;
   <br><br>
   <!-- Library / Frameworks -->
