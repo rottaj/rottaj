@@ -43,7 +43,7 @@
 
   <br><br>
       
- ### :crystal_ball: Frameworks & Libaries
+ ### :nut_and_bolt: Frameworks & Libaries
  
   <a href="#">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   </a>
 
-  <!--Other-->
+### 🔮 Other
       
   <br><br>
    <a href="#">
