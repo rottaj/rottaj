@@ -13,18 +13,14 @@
 ### 💻 OS
 
 <p> 
-
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    
+        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>     </a>
     <a href="https://www.kali.org" target="_blank"><img alt="Debian"
         src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
     </a>
-    
     <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-thebadge&logo=windows&logoColor=white"/>
     </a>
-    
 </p>
 
 <div align='left' style="display: flex">
@@ -34,23 +30,18 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   </a>
-    
   &emsp;
-    
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  </a>
-
+    </a>
     &emsp;
   <a href="https://golang.org">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
   <a/>
   &emsp;
-      
   <a href="https://docs.soliditylang.org/">
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-   </a>
-      
+   </a> 
   &emsp;
   <br><br>
       
