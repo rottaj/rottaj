@@ -43,7 +43,7 @@
   &emsp;
   <br><br>
       
- ### Frameworks and runtime environments
+ ### :crystal_ball: Frameworks & Libaries
       
   <a href="#">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
