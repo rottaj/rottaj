@@ -2,11 +2,6 @@
 
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
-<br>
-<h2>I'm Jack! </h2>
-<br>
-</p>
-
 ### 💻 OS
 <p> 
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
