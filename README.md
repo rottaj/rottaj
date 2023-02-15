@@ -83,7 +83,7 @@
       
  <img src="https://profile-counter.glitch.me/rottaj/count.svg" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj) 
+![Blue pill visitors](https://visitor-badge.glitch.me/badge?page_id=rottaj) 
       
 
 
