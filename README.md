@@ -79,7 +79,7 @@
 <br>
 
 <hr>
-      <h3>Profile Visits:</h3>
+      <h3>Sentient Visitors:</h3>
       
  <img src="https://profile-counter.glitch.me/rottaj/count.svg" />
 
