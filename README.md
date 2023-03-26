@@ -15,10 +15,12 @@
 <div align='left' style="display: flex">
     
 ### ⌨️ Programming languages
+  <a href="https://www.php.net">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt=PHP>
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   </a>
-
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </a>
