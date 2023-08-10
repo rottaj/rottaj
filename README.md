@@ -14,15 +14,12 @@ I like web apps and crypto.
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>      </a>
 </p>
 
-<div align='left' style="display: flex">
-
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rottaj&show_icons=true&theme=tokyonight" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rottaj&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
-</div>
 
 <br>
 
