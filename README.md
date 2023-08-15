@@ -2,7 +2,6 @@
 
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
-I like web apps and crypto.
 
 ### 💻 OS
 <p> 
