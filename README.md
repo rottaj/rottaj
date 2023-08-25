@@ -4,13 +4,12 @@
 
 
 ### 💻 OS
-<p> 
-    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>     </a>
+<p>
+    <a href="https://www.windows.com" target="_blank"><img alt="Windows"
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>      </a>
     <a href="https://www.debian.org" target="_blank"><img alt="Debian"
         src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>      </a>
-     <a href="https://www.apple.com" target="_blank"><img alt="Debian"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>      </a>
+     
 </p>
 
 <a>
