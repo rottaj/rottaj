@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
-
-### 💻 OS
 <p>
     <a href="https://www.windows.com" target="_blank"><img alt="Windows"
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>      </a>
