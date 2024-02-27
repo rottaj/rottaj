@@ -1,5 +1,6 @@
 <h2>Hello there! :smiley: </h2>
-
+I'm Jack.
+I like building tools in C & reverse engineering malware.
 ![alt text](https://github.com/rottaj/rottaj/blob/master/hello_there.gif?raw=true)
 
 <p>
