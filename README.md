@@ -1,7 +1,7 @@
 <h2>Hello there! :smiley: </h2>
 
 I'm Jack.<br>
-I like building tools in C & reverse engineering malware.<br>
+I enjoy building offensive tools.<br>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rottaj&show_icons=true&theme=tokyonight" />
